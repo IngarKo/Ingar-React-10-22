@@ -1,0 +1,22 @@
+.main-pilt {
+width: 800px;
+height: 600px;
+}
+.main-pilt:hover{
+  opacity: 0.9;
+}
+
+.nupp:hover{
+font-weight:bold;
+}
+.nupp {
+border-radius: 1mm;
+
+}
+.nupp:fullscreen{
+line-break: auto;
+}
+.main-pilt, .nupp {
+cursor: pointer;
+}
+
