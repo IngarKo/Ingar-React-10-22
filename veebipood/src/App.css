@@ -1,6 +1,6 @@
 .main-pilt {
-width: 800px;
-height: 600px;
+width: 400px;
+height: 300px;
 }
 .main-pilt:hover{
   opacity: 0.9;
@@ -11,6 +11,7 @@ font-weight:bold;
 }
 .nupp {
 border-radius: 1mm;
+background: aqua;
 
 }
 .nupp:fullscreen{
@@ -20,3 +21,22 @@ line-break: auto;
 cursor: pointer;
 }
 
+.toode{
+  text-align: auto;
+  box-sizing: 50px;
+  
+}
+.toode:hover{
+  opacity: 0.5;
+}
+.aktiivne {
+  border: 1px solid green;
+  color: green;
+  background-color: rgb(234, 241, 224);
+}
+
+.mitteaktiivne {
+  border: 1px solid red;
+  color: red;
+  background-color: rgb(226, 182, 180);
+}
